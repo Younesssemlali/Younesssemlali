@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YOUNESS SEMLALI</h1> 
 
-<img align="right" src=https://avatars.githubusercontent.com/u/101253650?v=4" width="300"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/101253650?v=4" width="300"/>
 
 
 ## About Me 👨‍💻
