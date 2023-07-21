@@ -5,7 +5,7 @@
 
 ## About Me 👨‍💻
 
-I am an IT engineer with a passion for building software solutions that help businesses grow.I have worked with a variety of programming languages and web frameworks, including Python, Java, and .Net.
+I am an IT engineer with a passion for building software solutions that help businesses grow.I have worked with a variety of programming languages and web frameworks, including Python, Java,Php,Jee,Springboot,and .Net.
 
 ## My Skills 🚀
 
