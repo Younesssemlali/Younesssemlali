@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm YOUNESS SEMLALI</h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Youness Semlali&label=Profile%20views&color=0e75b6&style=flat" alt="Youness Semlali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Younesssemlali&label=Profile%20views&color=0e75b6&style=flat" alt="Younesssemlali" /> </p>
 
 
 
