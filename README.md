@@ -8,10 +8,6 @@
 ## About Me 👨‍💻
 
 I am an IT engineer with a passion for building software solutions that help businesses grow.I have worked with a variety of programming languages and web frameworks, including Python, Java,Php,Jee and .Net.
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div>
-
 
 
 </div>
