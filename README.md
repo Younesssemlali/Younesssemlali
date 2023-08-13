@@ -8,6 +8,24 @@
 ## About Me 👨‍💻
 
 I am an IT engineer with a passion for building software solutions that help businesses grow.I have worked with a variety of programming languages and web frameworks, including Python, Java,Php,Jee and .Net.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
+</div>
+
+<div align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+  
+</div>
+  
+<div align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
+  </a>
+</div>
+
 
 ## My Skills 🚀
 
